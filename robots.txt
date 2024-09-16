@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://ohosa.github.io/zAM/sitemap.zAM.gz
